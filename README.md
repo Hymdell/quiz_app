@@ -1,2 +1,2 @@
-# felpodex_ui
-interface do site estilo Pokédex para o projeto Felpodex https://www.instagram.com/felpodex/
+# Quiz app
+App de Quiz feito em flutter/dart
